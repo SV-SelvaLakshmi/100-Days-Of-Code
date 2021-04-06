@@ -1,8 +1,8 @@
 ### 💯 Days Of Code
 > 👋 Hai there ! 
-> I plan to code for 7 hours ⏰ daily.
-> So I take 💯 100-Days-Of-Code challenge .
-> See my 100 days of codes as [tweets](https://twitter.com/SelvaLa97822932) on twitter<br/>.
+> I plan to code for 7 hours ⏰ daily.<br/>
+> So I take 💯 100-Days-Of-Code challenge.<br/>
+> See my 100 days of codes as [tweets](https://twitter.com/SelvaLa97822932) on twitter.<br/>
 # **Day 1 - Programming in C**
 - Structure of C programming
 - Comments
